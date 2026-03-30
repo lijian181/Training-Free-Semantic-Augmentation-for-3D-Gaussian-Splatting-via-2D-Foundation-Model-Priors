@@ -1,0 +1,1 @@
+# Training-Free-Semantic-Augmentation-for-3D-Gaussian-Splatting-via-2D-Foundation-Model-Priors
